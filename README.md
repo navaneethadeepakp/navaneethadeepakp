@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello! I'm Navaneetha Periswamy.
 
-<!--
-**navaneethadeepakp/navaneethadeepakp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student at 42Heilbronn, transitioning from a theoretical background in MCA to practical, systems-level engineering. I am passionate about understanding how software interacts with hardware. Currently based in Stuttgart, Germany.
 
-Here are some ideas to get you started:
+My Tech Stack:
+* Languages: C , C++
+* Concepts : Systems Programming, Memory Management, Data Structures
+* Tools    : Git, Linux, Makefile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+I am currently working on deep-dive projects at 42Heilbronn to master low-level memory management and concurrency.
+
+Looking for:
+I am currently seeking Werkstudent (Working Student) opportunities to contribute to technical engineering projects.
+
+How to reach me: navanithap26@gmail.com
+LinkedIn:
